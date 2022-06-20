@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Satelity", "Satelity\Satelity.csproj", "{3C2139A0-2EB4-43A0-B81A-2AD6A80C3332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C2139A0-2EB4-43A0-B81A-2AD6A80C3332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2139A0-2EB4-43A0-B81A-2AD6A80C3332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2139A0-2EB4-43A0-B81A-2AD6A80C3332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2139A0-2EB4-43A0-B81A-2AD6A80C3332}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C71DF83C-5FD6-4334-A866-79B986A54DD0}
+	EndGlobalSection
+EndGlobal
